@@ -1,5 +1,6 @@
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-orange.svg)](https://sonarcloud.io/summary/new_code?id=fastAPIsemillero20223)
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=fastAPIsemillero20223)](https://sonarcloud.io/summary/new_code?id=fastAPIsemillero20223)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=fastAPIsemillero20223&metric=coverage)](https://sonarcloud.io/summary/new_code?id=fastAPIsemillero20223)
 
 # Comandos
 ## Instalar dependencias
