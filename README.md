@@ -1,3 +1,6 @@
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=fastAPIsemillero20223)
+
+
 # Comandos
 ## Instalar dependencias
 `pip install --no-cache-dir --upgrade -r requirements.txt`
